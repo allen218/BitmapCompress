@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/mac/Desktop/NativeImgCompress1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_e2e675bf80b21a1b95247c1e72cb7af6330e5443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/NativeImgCompress1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mac/Desktop/NativeImgCompress1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_931fde4468d94a3cba139b7252ac95d77f0469a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/NativeImgCompress1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/mac/Desktop/NativeImgCompress1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_61112d24f2d982240fee7c1492a5659d728b0aed.jar" />
+    </item>
+
+</items>
